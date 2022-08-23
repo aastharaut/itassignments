@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+.box{
+    border: ridge yellow;
+    width: 370px;
+    height: 258px;
+}
+div .cols{
+    border: solid 1px grey;
+    width:150px;
+    height: 50px;
+    margin: 1px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.col2{
+    width: 100px;
+}
+
+
+div.blue1 {
+    width:150px;
+    height:200px;
+    background-color: #B4D6E3;
+    margin:1px ;
+    border: solid 1px grey;
+    position: absolute;
+}
+div.yellow1 {
+    width:100px;
+    height:40px;
+    background-color:yellow;
+    border: solid 1px grey; 
+    margin: 1px;   
+    position: absolute;
+    text-align: right;
+    left: 161px;
+}
+div.red1 {
+    width:100px;
+    height:40px;
+    background-color:red;
+    border: solid 1px grey;
+    position: absolute;
+    text-align: center;
+    margin: 1px;
+    left: 269px;
+}
+div.green1 {
+    margin: px;
+    width:208px;
+    height:156px;
+    background-color: green;
+    border: solid 1px grey;
+    position: absolute;
+    left: 161px;
+    top: 120px;
+}
